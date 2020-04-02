@@ -1,0 +1,17 @@
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\bin\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.exe
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\bin\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.deps.json
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\bin\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.runtimeconfig.json
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\bin\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.runtimeconfig.dev.json
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\bin\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.dll
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\bin\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.pdb
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.csprojAssemblyReference.cache
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\App.g.cs
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF_MarkupCompile.cache
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF_MarkupCompile.lref
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.g.resources
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.AssemblyInfoInputs.cache
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.AssemblyInfo.cs
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.dll
+F:\RiderProjects\HelloWorld_C-s_WPF\HelloWorld_C-s_WPF\obj\Debug\netcoreapp3.1\HelloWorld_C-s_WPF.pdb
